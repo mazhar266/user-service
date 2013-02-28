@@ -1,0 +1,4 @@
+require File.dirname(__FILE__) + '/../service'
+require 'spec'
+require 'spec/interop/test'
+require 'rack/test'
